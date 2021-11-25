@@ -1,4 +1,4 @@
-<h3 align="center">Hey there, I'm <a href="https://noremacdevelopment.xyz">Noremac, Founder of Noremac Development.</a> <img src="" width="28"> <img src="" width="28"/></h3>
+<h3 align="center">Hey there, I'm <a href="https://noremacdevelopment.xyz">Noremac, Founder of Noremac Development.</h3>
 
 ## Who am I?
 
